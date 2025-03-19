@@ -1,6 +1,11 @@
-## Hi there 👋
-#- I’m currently working in OSTU 👋
-#- I’m currently learning neural network developer 👋
+### Hi there 👋
+
+## Education
+
+
+## Career
+# I’m currently working in OSTU 👋
+# I’m currently learning neural network developer 👋
 
 <!--
 **dol-evp/dol-evp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
